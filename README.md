@@ -6,11 +6,11 @@ This project is a full-stack e-commerce application built with a focus on provid
 
 ## Features
 
-- **User Authentication:** Customers can create accounts, log in, and log out. Their avatars will be visible in the navbar for a personalized experience.
+- **User Authentication:** Customers can create accounts, sign in, sign up, and log out. Their avatars will be visible in the navbar for a personalized experience.
 
 - **Shopping Cart:** Customers can add, update, and remove items from their cart. They can also review and manage items before proceeding to checkout.
 
-- **Product Management:** The application enables sorting products by different criteria such as price and date, and offers advanced filtering options based on properties like category, size, and color.
+- **Product Management:** The application enables sorting products by different criteria such as price and date and also offers advanced filtering options based on properties like category, size, and color.
 
 - **Custom Image Gallery:** Customers can view different product images through a custom image gallery designed for each item.
 
